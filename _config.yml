@@ -23,12 +23,12 @@ repository               : "Duanyy0813/Duanyy0813.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "DuanYY"
   pronouns         : # example: "she/her"  
-  bio              : "nobody"
-  location         : "China"
-  employer         : "University of Electronic Science and Technology of China"
+  bio              : "do anything you want to do"
+  location         : "Chengdu, China"
+  employer         : "UESTC"
   uri              : # URL
   email            : "duanyy0813@gmail.com" 
 
