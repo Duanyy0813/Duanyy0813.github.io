@@ -24,13 +24,13 @@ repository               : "Duanyy0813/Duanyy0813.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "DuanYY"
+  pronouns         : "he"# example: "she/her"  
+  bio              : "do anything you want"
+  location         : "China"
+  employer         : "HFUT->UESTC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "duanyy0813@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -45,12 +45,12 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  # bitbucket        : # Username - Update with your username on the site
-  # codepen          : # Username
-  # dribbble         : # Username
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
   github           : "Duanyy0813"
-  # kaggle           : # Username  
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
