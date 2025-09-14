@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "HomePage"
 title_separator          : "-"
-name                     : &name "DuanYY"
+name                     : &name "Yangyang Duan"
 description              : &description "This is my personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Duanyy0813.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "Duanyy0813/Duanyy0813.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "DuanYY"
+  name             : "Yangyang Duan"
   pronouns         : # example: "she/her"  
   bio              : "do anything you want to do"
   location         : "Chengdu, China"
@@ -92,7 +92,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
